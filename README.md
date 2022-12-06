@@ -59,7 +59,8 @@ g++ -std=c++17 02-req-rep-basic-client.cpp -o 02-req-rep-basic-client -lzmq
 ```
 
 > 실행 영상
-> <img width="80%" src="https://user-images.githubusercontent.com/68274803/205856682-c4debb35-0e79-42f9-aba6-c9f7e87ced96.mp4"/>
+
+<https://user-images.githubusercontent.com/68274803/205856682-c4debb35-0e79-42f9-aba6-c9f7e87ced96.mp4>
 
 ## PUB-SUB 예제
 
@@ -110,7 +111,8 @@ g++ -std=c++17 04-pub-sub-basic-client.cpp-o 04-pub-sub-basic-client -lzmq
 > 실행 영상
 
 - 영상에서는 client를 3개 실행하였다.
-  > <img width="80%" src="https://user-images.githubusercontent.com/68274803/205862663-914b30cd-c6f6-4422-829c-c98e5067a109.mp4"/>
+
+  <https://user-images.githubusercontent.com/68274803/205862663-914b30cd-c6f6-4422-829c-c98e5067a109.mp4>
 
 ## PUB-SUB AND PULL-PUSH 예제
 
@@ -164,7 +166,8 @@ g++ -std=c++17 06-pub-sub-and-pull-push-client.cpp -o 06-pub-sub-and-pull-push-c
 ```
 
 > 실행 영상
-> <img width="80%" src="https://user-images.githubusercontent.com/68274803/205867182-acabbccd-9bae-48d9-94dc-6006e171d679.mp4"/>
+
+<https://user-images.githubusercontent.com/68274803/205867182-acabbccd-9bae-48d9-94dc-6006e171d679.mp4>
 
 ## PUB-SUB AND PULL-PUSH 예제 v2
 
@@ -209,7 +212,8 @@ g++ -std=c++17 08-pub-sub-and-pull-client-v2.cpp -o 08-pub-sub-and-pull-client-v
 ```
 
 > 실행 영상
-> <img width="80%" src="https://user-images.githubusercontent.com/68274803/205867208-ece4c4b8-9129-45d0-9113-e7ffe9533552.mp4"/>
+
+<https://user-images.githubusercontent.com/68274803/205867208-ece4c4b8-9129-45d0-9113-e7ffe9533552.mp4>
 
 ## DEALER ROUTER ASYNC 예제
 
@@ -271,7 +275,8 @@ g++ -std=c++17 10-dealer-router-async-client.cpp -o 10-dealer-router-async-clien
 ```
 
 > 실행 영상
-> <img width="80%" src="https://user-images.githubusercontent.com/68274803/205875812-d56a3283-fa0c-477c-a2d8-5576b098ecca.mp4"/>
+
+<https://user-images.githubusercontent.com/68274803/205875812-d56a3283-fa0c-477c-a2d8-5576b098ecca.mp4>
 
 ## DEALER ROUTER ASYNC 예제 - client thread version
 
@@ -326,4 +331,5 @@ g++ -std=c++17 11-dealer-router-async-client-thread.cpp -o 11-dealer-router-asyn
 ```
 
 > 실행 영상
-> <img width="80%" src="https://user-images.githubusercontent.com/68274803/205875841-d232ab89-2246-4d3a-82b1-309c8e19622d.mp4"/>
+
+<https://user-images.githubusercontent.com/68274803/205875841-d232ab89-2246-4d3a-82b1-309c8e19622d.mp4>
