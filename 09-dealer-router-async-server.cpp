@@ -4,7 +4,6 @@
 #include <functional>
 #include <iostream>
 #include <zmq.hpp>
-#include "zhelpers.hpp"
 
 class server_worker {
 public:

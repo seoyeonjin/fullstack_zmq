@@ -33,7 +33,7 @@ int main ()
             std::cout << "I: received message " << smessage << std::endl;
         }
         else{
-            zmq::message_t message(1);
+            zmq::message_t message(4);
             
             int rand = std::rand() % 101;
 

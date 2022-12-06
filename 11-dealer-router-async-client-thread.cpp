@@ -4,7 +4,6 @@
 #include <functional>
 #include <string>
 #include <zmq.hpp>
-#include "zhelpers.hpp"
 #include <iostream>
 #include <unistd.h>
 
