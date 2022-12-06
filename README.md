@@ -60,7 +60,7 @@ g++ -std=c++17 02-req-rep-basic-client.cpp -o 02-req-rep-basic-client -lzmq
 
 > 실행 영상
 
-<https://user-images.githubusercontent.com/68274803/205856682-c4debb35-0e79-42f9-aba6-c9f7e87ced96.mp4>
+<https://user-images.githubusercontent.com/68274803/205882323-14475325-21d5-4dd8-8f83-966d597bd7e1.mp4>
 
 ## PUB-SUB 예제
 
@@ -276,7 +276,7 @@ g++ -std=c++17 10-dealer-router-async-client.cpp -o 10-dealer-router-async-clien
 
 > 실행 영상
 
-<https://user-images.githubusercontent.com/68274803/205875812-d56a3283-fa0c-477c-a2d8-5576b098ecca.mp4>
+<https://user-images.githubusercontent.com/68274803/205882370-b3271e8a-834c-4c97-88e8-c8a6f0d24405.mp4>
 
 ## DEALER ROUTER ASYNC 예제 - client thread version
 
@@ -332,4 +332,4 @@ g++ -std=c++17 11-dealer-router-async-client-thread.cpp -o 11-dealer-router-asyn
 
 > 실행 영상
 
-<https://user-images.githubusercontent.com/68274803/205875841-d232ab89-2246-4d3a-82b1-309c8e19622d.mp4>
+<https://user-images.githubusercontent.com/68274803/205882432-aa6f6e99-9613-498b-8649-178760123a64.mp4>
