@@ -9,6 +9,7 @@
 - [5. PUB-SUB-PULL-PUSH 예제 V2](#pub-sub-and-pull-push-예제-v2)
 - [6. DEALER ROUTER 예제](#dealer-router-async-예제)
 - [7. DEALER ROUTER 예제 - client thread version](#dealer-router-async-예제---client-thread-version)
+- [8. 결론/느낀점](#결론느낀점)
 
 ## 선택 챕터/언어
 
@@ -333,3 +334,8 @@ g++ -std=c++17 11-dealer-router-async-client-thread.cpp -o 11-dealer-router-asyn
 > 실행 영상
 
 <https://user-images.githubusercontent.com/68274803/205882432-aa6f6e99-9613-498b-8649-178760123a64.mp4>
+
+## 결론/느낀점
+
+> Dirty p2p는 구현하는 데에 어려움이 있어 포함하지 못했다.
+> c++에서 data type을 적절하게 적용하지 못한 것 같아 아쉬움이 남는다. stirng type을 통해 데이터를 보내고 출력했지만 이러한 부분에서 일관성 있게 코드를 작성하지 못했던 것 같다.
